@@ -10,11 +10,11 @@ ${data.projectName}
 ${data.description} 
     
 ### TABLE OF CONTENTS
-1.[Installation](#installation)
-2.[USAGE](#usage)
-3.[CONTRIBUTING](#contributing)
-4.[TESTS](#tests)
-5.[QUESTIONS](#questions)
+1.[Installation](#installation)  
+2.[USAGE](#usage)  
+3.[CONTRIBUTING](#contributing)  
+4.[TESTS](#tests)  
+5.[QUESTIONS](#questions)  
     
 # INSTALLATION <a href=#installation></a>
 ${data.installation}
