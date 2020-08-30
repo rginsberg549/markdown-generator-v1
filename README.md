@@ -9,7 +9,7 @@
     1. [INSTALLATION](#installation)
     2. [Usage](#usage)
     
-# INSTALLATION <a name="installation"></a>
+# <a name="installation">INSTALLATION</a>
 # USAGE
 # LICENSE
     WHEN I choose a license for my application from a list of options
