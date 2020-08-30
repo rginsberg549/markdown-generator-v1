@@ -13,7 +13,7 @@ function generateMarkdown(data) {
 # INSTALLATION
 # USAGE
 # LICENSE
-    WHEN I choose a license for my application from a list of options
+${data.licenses}
 # CONTRIBUTING
 # TESTS
 # QUESTIONS

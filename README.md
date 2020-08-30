@@ -14,7 +14,11 @@
 
 
 # LICENSE
+<<<<<<< Updated upstream
 WHEN I choose a license for my application from a list of options
+=======
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0,[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+>>>>>>> Stashed changes
 # CONTRIBUTING
 # TESTS
 # QUESTIONS
