@@ -1,22 +1,22 @@
 function generateMarkdown(data) {
     return `
-# LICENSE
+### LICENSE
 ${data.licenses}
 
-# Project Name
+### PROJECT NAME
 ${data.projectName}
     
-# DESCRIPTION
+### DESCRIPTION
 ${data.description} 
     
-# TABLE OF CONTENTS
-1.[Installation]
+### TABLE OF CONTENTS
+1.[Installation](#installation)
 2.[USAGE]
 3.[CONTRIBUTING]
 4.[TESTS]
 5.[QUESTIONS]
     
-# INSTALLATION
+# <a href=#installation>INSTALLATION</a>
 ${data.installation}
 
 # USAGE
