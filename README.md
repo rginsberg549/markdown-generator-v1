@@ -6,8 +6,7 @@
 # DESCRIPTION 
     
 # TABLE OF CONTENTS
-    1. [INSTALLATION](#installation)
-    2. [Usage](#usage)
+    1. [INSTALLATION]
     
 # <a name="installation">INSTALLATION</a>
 # USAGE
