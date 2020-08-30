@@ -11,9 +11,8 @@
 
 # <a name="installation">INSTALLATION</a>
 # USAGE
-`bash
-node index.js
-`
+``Use `code` in your Markdown file.``
+
 # LICENSE
     WHEN I choose a license for my application from a list of options
 # CONTRIBUTING
