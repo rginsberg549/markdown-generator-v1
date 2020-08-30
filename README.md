@@ -11,6 +11,9 @@
 
 # <a name="installation">INSTALLATION</a>
 # USAGE
+`bash
+node index.js
+`
 # LICENSE
     WHEN I choose a license for my application from a list of options
 # CONTRIBUTING
