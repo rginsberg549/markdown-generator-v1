@@ -5,13 +5,21 @@ const lib = require("./utils/generateMarkdown.js")
 
 const writeFileAsync = util.promisify(fs.writeFile);
 
-function promptUser() {
-  return inquirer.prompt([
+const questions = [
     {
-      type: "input",
-      name: "name",
-      message: "What is the name of your project?"
-    }]);
+        type: "input",
+        name: "name",
+        default: "",
+        message: "What is the name of your project?"
+    },
+    {
+        type: "input",
+        name: "description",
+        message: "Please describe your project"
+    }]
+
+function promptUser() {
+  return inquirer.prompt(questions);
 }
 
 
