@@ -6,7 +6,7 @@
 Markdown File Generator
     
 ### DESCRIPTION
-A command-line README.md file generator.  Creates a README.md file through a se 
+A command-line README.md file generator.  Creates a README.md file through a series of prompts that follow industry best practices for project. 
     
 ### TABLE OF CONTENTS
 1.[Installation](#installation)  
@@ -28,5 +28,5 @@ N/A
 N/A
 
 ### QUESTIONS <a href=#questions></a>
-Github: rginsberg549
-Email: rginsberg549@gmail.com
+Github: N/A  
+Email: N/A  

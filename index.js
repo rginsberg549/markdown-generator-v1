@@ -9,12 +9,13 @@ const questions = [
     {
         type: "input",
         name: "projectName",
-        default: "",
+        default: "Markdown File Generator",
         message: "What is the name of your project?"
     },
     {
         type: "input",
         name: "description",
+        default: "A command-line README.md file generator.  Creates a README.md file through a series of prompts that follow industry best practices for project.",
         message: "Please describe your project"
     },
     {
@@ -30,31 +31,37 @@ const questions = [
     {
         type: "input",
         name: "installation",
+        default: "N/A",
         message: "Please enter in your installation instructions"
     },
     {
         type: "input",
         name: "usage",
+        default: "N/A",
         message: "Please describe how to use this"
     },
     {
         type: "input",
         name: "contributing",
+        default: "N/A",
         message: "Please enter information for your contributors"
     },
     {
         type: "input",
         name: "tests",
+        default: "N/A",
         message: "Describe any tests for your project"
     },
     {
         type: "input",
         name: "githubUsername",
+        default: "N/A",
         message: "What is your Github Username?"
     },
     {
         type: "input",
         name: "email",
+        default: "N/A",
         message: "What is your email?"
     }
 ]

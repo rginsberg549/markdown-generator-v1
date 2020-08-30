@@ -29,8 +29,8 @@ ${data.contributing}
 ${data.tests}
 
 ### QUESTIONS <a href=#questions></a>
-Github: ${data.githubUsername}
-Email: ${data.email}
+Github: ${data.githubUsername}  
+Email: ${data.email}  
 `
 }
 
