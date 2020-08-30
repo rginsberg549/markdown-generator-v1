@@ -15,7 +15,7 @@ dfsdfs
 4.[TESTS]
 5.[QUESTIONS]
     
-### <a href='#installation'>INSTALLATION</a>
+### INSTALLATION <a href='#installation'></a>
 fsdfs
 
 ### USAGE
