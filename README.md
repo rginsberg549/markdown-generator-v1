@@ -6,10 +6,10 @@
 # DESCRIPTION 
     
 # TABLE OF CONTENTS
-    1. [Installation](#INSTALLATION)
-    2. [Usage](#usage
+    1. [Installation](#installation)
+    2. [Usage](#usage)
     
-# INSTALLATION
+# INSTALLATION <a name="installation"></a>
 # USAGE
 # LICENSE
     WHEN I choose a license for my application from a list of options
