@@ -1,9 +1,9 @@
 
-### LICENSE
-
+### LICENSE(S)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ### PROJECT NAME
-Markdown Project
+Markdown File Generator
     
 ### DESCRIPTION
 A command-line README.md file generator.  Creates a README.md file through a se 
@@ -15,18 +15,18 @@ A command-line README.md file generator.  Creates a README.md file through a se
 4.[Tests](#tests)  
 5.[Questions](#questions)  
     
-# INSTALLATION <a href=#installation></a>
+### INSTALLATION <a href=#installation></a>
+N/A
 
+### USAGE <a href=#usage></a>
+N/A
 
-# USAGE <a href=#usage></a>
+### CONTRIBUTING <a href=#contributing></a>
+N/A
 
+### TESTS <a href=#tests></a>
+N/A
 
-# CONTRIBUTING <a href=#contributing></a>
-
-
-# TESTS <a href=#tests></a>
-
-
-# QUESTIONS <a href=#questions></a>
-Github: 
-Email: 
+### QUESTIONS <a href=#questions></a>
+Github: rginsberg549
+Email: rginsberg549@gmail.com
