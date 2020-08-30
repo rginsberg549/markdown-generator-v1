@@ -1,20 +1,32 @@
 
-# LICENSE BADGE
+# LICENSE
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0
 
-# TITLE
+# Project Name
+Project
     
-# DESCRIPTION 
+# DESCRIPTION
+Description 
     
 # TABLE OF CONTENTS
-    1. [Installation](#installation)
-    2. [Usage](#usage
+1.[Installation]
+2.[USAGE]
+3.[CONTRIBUTING]
+4.[TESTS]
+5.[QUESTIONS]
     
 # INSTALLATION
+Installation Instructions
+
 # USAGE
-# LICENSE
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0,[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+This is how you use it
+
 # CONTRIBUTING
+Contribute
+
 # TESTS
+Testing test test
+
 # QUESTIONS
-    WHEN I enter my GitHub username
-    THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile  + GITHUB link + EMAIL Address
+rginsberg549
+rginsberg549@gmail.com

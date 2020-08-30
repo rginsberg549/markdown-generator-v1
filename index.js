@@ -8,7 +8,7 @@ const writeFileAsync = util.promisify(fs.writeFile);
 const questions = [
     {
         type: "input",
-        name: "name",
+        name: "projectName",
         default: "",
         message: "What is the name of your project?"
     },
@@ -26,9 +26,36 @@ const questions = [
             '[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)',
             '[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)',
         ],
-        filter: function (val) {
-            return val
-        }
+    },
+    {
+        type: "input",
+        name: "installation",
+        message: "Please enter in your installation instructions"
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "Please describe how to use this"
+    },
+    {
+        type: "input",
+        name: "contributing",
+        message: "Please enter information for your contributors"
+    },
+    {
+        type: "input",
+        name: "tests",
+        message: "Describe any tests for your project"
+    },
+    {
+        type: "input",
+        name: "githubUsername",
+        message: "What is your Github Username?"
+    },
+    {
+        type: "input",
+        name: "email",
+        message: "What is your email?"
     }
 ]
 

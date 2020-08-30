@@ -1,24 +1,36 @@
 function generateMarkdown(data) {
     return `
-# LICENSE BADGE
-
-# TITLE
-    
-# DESCRIPTION 
-    
-# TABLE OF CONTENTS
-    1. [Installation](#installation)
-    2. [Usage](#usage
-    
-# INSTALLATION
-# USAGE
 # LICENSE
 ${data.licenses}
+
+# Project Name
+${data.projectName}
+    
+# DESCRIPTION
+${data.description} 
+    
+# TABLE OF CONTENTS
+1.[Installation]
+2.[USAGE]
+3.[CONTRIBUTING]
+4.[TESTS]
+5.[QUESTIONS]
+    
+# INSTALLATION
+${data.installation}
+
+# USAGE
+${data.usage}
+
 # CONTRIBUTING
+${data.contributing}
+
 # TESTS
+${data.tests}
+
 # QUESTIONS
-    WHEN I enter my GitHub username
-    THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile  + GITHUB link + EMAIL Address
+${data.githubUsername}
+${data.email}
 `
 }
 
