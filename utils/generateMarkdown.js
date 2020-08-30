@@ -11,26 +11,26 @@ ${data.description}
     
 ### TABLE OF CONTENTS
 1.[Installation](#installation)
-2.[USAGE]
-3.[CONTRIBUTING]
-4.[TESTS]
-5.[QUESTIONS]
+2.[USAGE](#usage)
+3.[CONTRIBUTING](#contributing)
+4.[TESTS](#tests)
+5.[QUESTIONS](#questions)
     
-# <a href=#installation>INSTALLATION</a>
+# INSTALLATION <a href=#installation></a>
 ${data.installation}
 
-# USAGE
+# USAGE <a href=#usage></a>
 ${data.usage}
 
-# CONTRIBUTING
+# CONTRIBUTING <a href=#contributing></a>
 ${data.contributing}
 
-# TESTS
+# TESTS <a href=#tests></a>
 ${data.tests}
 
-# QUESTIONS
-${data.githubUsername}
-${data.email}
+# QUESTIONS <a href=#questions></a>
+Github: ${data.githubUsername}
+Email: ${data.email}
 `
 }
 

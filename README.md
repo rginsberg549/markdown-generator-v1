@@ -3,30 +3,30 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ### PROJECT NAME
-sdfsdfsd
+Markdown Code Generator
     
 ### DESCRIPTION
-dfsdfs 
+A command-line README.md file generator.  Creates a README.md file through a se 
     
 ### TABLE OF CONTENTS
 1.[Installation](#installation)
-2.[USAGE]
-3.[CONTRIBUTING]
-4.[TESTS]
-5.[QUESTIONS]
+2.[USAGE](#usage)
+3.[CONTRIBUTING](#contributing)
+4.[TESTS](#tests)
+5.[QUESTIONS](#questions)
     
-### INSTALLATION <a href='#installation'></a>
-fsdfs
+# INSTALLATION <a href=#installation></a>
+N/a
 
-### USAGE
-sdfsfd
+# USAGE <a href=#usage></a>
+N/a
 
-### CONTRIBUTING
-sdfsdf
+# CONTRIBUTING <a href=#contributing></a>
+N/a
 
-### TESTS
-sdsdf
+# TESTS <a href=#tests></a>
+N/a
 
-### QUESTIONS
-sdfsdf
-sdfsdf
+# QUESTIONS <a href=#questions></a>
+Github: rginsberg549
+Email: rginsberg549@gmail.com
