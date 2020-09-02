@@ -16,7 +16,7 @@ A command-line README.md file generator.  Creates a README.md file through a ser
 5.[Questions](#questions)  
     
 ### INSTALLATION <a href=#installation></a>
-Once you download the repo, you will need to change into your working director and run node index.js
+Once you download the repo, you will need to change into your working directory and run node index.js
 
 ### USAGE <a href=#usage></a>
 Use this produce a README file for your project
