@@ -1,12 +1,12 @@
 
 ### LICENSE(S)
-1. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+
 
 ### PROJECT NAME
 Markdown File Generator
     
 ### DESCRIPTION
-A command-line README.md file generator.  Creates a README.md file through a series of prompts that follow industry best practices for project. 
+A command-line README.md file generator.  Creates a README.md file through a series of prompts that follow industry best practices for a development project. 
     
 ### TABLE OF CONTENTS
 1.[Installation](#installation)  
@@ -16,10 +16,10 @@ A command-line README.md file generator.  Creates a README.md file through a ser
 5.[Questions](#questions)  
     
 ### INSTALLATION <a href=#installation></a>
-N/A
+Once you download the repo, you will need to change into your working director and run node index.js
 
 ### USAGE <a href=#usage></a>
-N/A
+Use this produce a README file for your project
 
 ### CONTRIBUTING <a href=#contributing></a>
 N/A
@@ -28,5 +28,5 @@ N/A
 N/A
 
 ### QUESTIONS <a href=#questions></a>
-Github: N/A  
-Email: N/A  
+Github: rginsberg549  
+Email: rginsberg549@gmail.com,  
